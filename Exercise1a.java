@@ -7,5 +7,6 @@ a=a/10;
 x++;
 }
 System.out.println (x);
+    System.out.println (x);
 }
 }
